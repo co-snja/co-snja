@@ -6,10 +6,10 @@
 
 
 <p align="left">
-<img src="/hill.png">
-<img src="/hilda.png">
-<img src="/nate.png" height="84px">
-<img src="/rosa.png" height="84px">
+<img src="/hill.png" height="26px">
+<img src="/hilda.png" height="26px">
+<img src="/nate.png" height="26px">
+<img src="/rosa.png" height="26px">
 <img src="/red.png">
   </p>
 <!---
