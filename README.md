@@ -8,8 +8,8 @@
 <p align="left">
 <img src="/hill.png">
 <img src="/hilda.png">
-<img src="/nate.png">
-<img src="/rosa.png">
+<img src="/nate.png" height="84px">
+<img src="/rosa.png" height="84px">
 <img src="/red.png">
   </p>
 <!---
