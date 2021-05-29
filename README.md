@@ -6,8 +6,7 @@
 
 
 <p align="left">
-<img src="/hilbert.png">
-  <img src="/hill.png">
+<img src="/hill.png">
 <img src="/hilda.png">
 <img src="/nate.png">
 <img src="/rosa.png">
