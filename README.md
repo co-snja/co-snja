@@ -11,6 +11,7 @@
 <img src="/nate.png" height="26px">
 <img src="/rosa.png" height="26px">
 <img src="/red.png">
+  <img src="/inv3-dialga.png">
   </p>
 <!---
 co-snja/co-snja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
