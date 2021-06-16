@@ -16,6 +16,18 @@
 <img src="/inv3-giratina.svg" height="26px">
 <img src="/inv3-rayquaza.svg" height="26px">
   </p>
+  
+  <p align="left">
+<img src="/hill.png" height="30px">
+<img src="/hilda.png" height="30px" "transform: scaleX(-1);">
+<img src="/nate.png" height="30px">
+<img src="/rosa.png" height="30px">
+<img src="/red.png">
+  <img src="/inv3-dialga.svg" height="30px">
+<img src="/inv3-palkia.svg" height="30px">
+<img src="/inv3-giratina.svg" height="30px">
+<img src="/inv3-rayquaza.svg" height="30px">
+  </p>
 <!---
 co-snja/co-snja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
