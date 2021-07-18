@@ -48,5 +48,7 @@ You can click the Preview link to take a look at your changes.
 <img src="/tactician.png" height="26px">
 <img src="/soc-acm.svg" height="26px">
 <img src="/soc-lichess.svg" height="26px">
+<img src="/org-citadelsecurities.svg" height="26px">
+
 
 </p>
